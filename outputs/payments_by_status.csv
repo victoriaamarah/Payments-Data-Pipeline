@@ -1,0 +1,6 @@
+payment_status,record_count,total_amount,percentage
+Completed,212,5280262.369999997,21.2
+Pending,211,5596707.090000001,21.1
+Disputed,201,5204907.409999998,20.1
+Failed,189,4748426.0699999975,18.9
+Processing,187,4779597.860000006,18.7

@@ -1,0 +1,6 @@
+payment_gateway,record_count,total_amount,successful_payments,failed_payments
+Chase,223,5720225.619999997,53,46
+PayPal,210,5531055.380000004,48,39
+Stripe,192,5048724.199999998,45,39
+Adyen,199,4955692.5600000005,32,37
+Square,176,4354203.039999999,34,28
